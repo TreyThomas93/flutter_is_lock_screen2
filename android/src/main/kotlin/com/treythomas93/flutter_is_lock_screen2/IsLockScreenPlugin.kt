@@ -1,4 +1,4 @@
-package com.wingli.is_lock_screen2
+package com.treythomas93.flutter_is_lock_screen2
 
 import android.app.KeyguardManager
 import android.content.Context
