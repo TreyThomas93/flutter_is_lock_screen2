@@ -1,3 +1,3 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.treythomas93.flutter_is_lock_screen2">
 </manifest>
-<!-- package="com.wingli.is_lock_screen2" -->
+<!-- package="com.treythomas93.flutter_is_lock_screen2" -->
