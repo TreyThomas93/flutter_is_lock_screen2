@@ -27,7 +27,7 @@ apply plugin: 'kotlin-android'
 android {
     compileSdk = 34
 
-    namespace 'com.wingli.is_lock_screen2'
+    namespace 'com.treythomas93.flutter_is_lock_screen2'
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17
