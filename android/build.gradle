@@ -25,16 +25,16 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    compileSdk = 34
+    compileSdk 34
 
-    namespace = 'com.treythomas93.flutter_is_lock_screen2'
+    namespace 'com.treythomas93.flutter_is_lock_screen2'
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17
         targetCompatibility JavaVersion.VERSION_17
     }
     kotlinOptions {
-        jvmTarget = "17"
+        jvmTarget "17"
     }
 
     sourceSets {
